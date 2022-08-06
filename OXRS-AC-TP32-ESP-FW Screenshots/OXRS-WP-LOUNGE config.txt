@@ -1,0 +1,106 @@
+{
+"screens": [
+{
+"tiles": [
+{
+"tile": 1,
+"style": "link",
+"icon": "_remote",
+"label": "Media",
+"link": 2
+},
+{
+"tile": 2,
+"style": "link",
+"icon": "_bulb",
+"label": "Lights",
+"link": 3
+},
+{
+"tile": 3,
+"style": "link",
+"icon": "_door",
+"label": "Bedroom",
+"link": 4
+}
+],
+"screen": 1,
+"label": "Home"
+},
+{
+"tiles": [
+{
+"tile": 3,
+"style": "remote",
+"label": "Kodi Remote"
+},
+{
+"tile": 4,
+"style": "buttonPrevNext",
+"icon": "_play",
+"label": "Play / Pause"
+},
+{
+"tile": 1,
+"style": "buttonLevelUp",
+"label": "Light 1"
+},
+{
+"tile": 2,
+"style": "buttonLevelUp",
+"label": "Light 2"
+},
+{
+"tile": 5,
+"style": "dropDown",
+"label": "Playback Option"
+},
+{
+"tile": 6,
+"style": "buttonLevelUp",
+"icon": "_speaker",
+"label": "Volume"
+}
+],
+"screen": 2,
+"label": "Lounge"
+},
+{
+"tiles": [
+{
+"tile": 1,
+"style": "indicator"
+},
+{
+"tile": 2,
+"style": "indicator"
+},
+{
+"tile": 3,
+"style": "indicator",
+"label": "Todays Rainfall"
+},
+{
+"tile": 4,
+"style": "indicator"
+}
+],
+"screen": 4,
+"label": "Weather"
+},
+{
+"tiles": [
+{
+"tile": 1,
+"style": "colorPicker",
+"icon": "_bulb",
+"label": "Colour"
+}
+],
+"screen": 3,
+"label": "Lights"
+}
+],
+"colortheme": {},
+"color": {}
+}
